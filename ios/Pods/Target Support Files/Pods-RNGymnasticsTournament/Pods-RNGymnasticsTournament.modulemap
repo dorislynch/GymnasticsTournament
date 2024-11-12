@@ -1,0 +1,6 @@
+framework module Pods_RNGymnasticsTournament {
+  umbrella header "Pods-RNGymnasticsTournament-umbrella.h"
+
+  export *
+  module * { export * }
+}
